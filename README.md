@@ -44,7 +44,7 @@ gcc auth_sys.c -o auth_sys -L. -lvcrypt
 
 ## Join Our Quest: Contribute and Contact
 
-Step into the adventure! Whether you refine our encryption epic or add your chapter, we're here to collaborate. Reach us at [email@example.com](mailto:email@example.com).
+Step into the adventure! Whether you refine our encryption epic or add your chapter, we're here to collaborate.
 
 ---
 
