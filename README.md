@@ -47,4 +47,3 @@ Step into the adventure! Whether you refine our encryption epic or add your chap
 
 ---
 
-Feel free to use this catchy yet simple Markdown content for your project's README.md file. Adjust as needed to suit your project's unique style and vibe.
