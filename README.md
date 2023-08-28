@@ -1,4 +1,3 @@
-Absolutely, let's keep it catchy yet simple:
 
 # Auth_Sys C Program
 
