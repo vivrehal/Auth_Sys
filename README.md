@@ -3,11 +3,11 @@
 
 ## Unveiling Auth_Sys: Your Secure Vault for User Magic
 
-Welcome to the world of Auth_Sys, where registering users and guarding passwords become a breeze. Our C program brings a touch of encryption wizardry and a sprinkle of command-line charm to keep your system secure.
+Welcome to the world of Auth_Sys, where registering users and guarding passwords become a breeze. This C program brings a touch of encryption wizardry and a sprinkle of command-line charm to keep your system secure.
 
 ## The  Aim: Solid Authentication, Sneaky Passwords
 
-**Goal**: Auth_Sys is your trusty sidekick for local authentication. Our focus? **Authentication and Password Security**. 
+**Goal**: Auth_Sys is your trusty sidekick for local authentication. It's focus? **Authentication and Password Security**. 
 
 ## What's Cooking: Specs at a Glance
 
@@ -43,7 +43,7 @@ gcc auth_sys.c -o auth_sys -L. -lvcrypt
 
 ## Join the Quest: Contribute and Contact
 
-Step into the adventure! Whether you refine our encryption epic or add your chapter, we're here to collaborate.
+Step into the adventure! Whether you refine our encryption epic or add your chapter, I am here to collaborate.
 
 ---
 
